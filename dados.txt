@@ -1,0 +1,4 @@
+5;cinco
+9;nove
+8;oito
+1;um
